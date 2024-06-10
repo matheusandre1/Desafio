@@ -1,4 +1,4 @@
-for i in range(0,21):
+for i in range(21,0,-1):
     if i == 13:
         continue;   
     print(i);
